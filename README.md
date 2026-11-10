@@ -1,3 +1,8 @@
+![Telegram](https://img.shields.io/badge/Telegram-%40N3mak__bot-22d3ee?style=flat-square)
+![Status](https://img.shields.io/badge/status-live-22d3ee?style=flat-square)
+![Pricing](https://img.shields.io/badge/reports-99%20%2F%20149%20USD-ff6a3d?style=flat-square)
+![State](https://img.shields.io/badge/state-Neon%20Postgres-34d399?style=flat-square)
+
 # N3mak — AI business agent on Telegram
 
 N3mak is a Telegram agent that does three jobs for a small business, with no dashboard and no onboarding call.
@@ -32,6 +37,15 @@ State lives in Neon Postgres, because the free hosting tier wipes local disk on 
 
 ## Links
 
-- Bot: https://t.me/N3mak_bot
+- Bot: https://t.me/N3mak_bot?start=gh_readme
 - Product pages: https://namak7678.github.io/n3mak-services/tools/
 - Sample report: https://namak7678.github.io/n3mak-services/tools/sample.html
+
+
+## Try it in one line
+
+Open https://t.me/N3mak_bot?start=gh_readme and type `/blue yourdomain.com`.
+
+## For maintainers of directories
+
+The agent runs 24/7 on a single service, keeps its own state in Postgres, and pays for itself with Telegram Stars. If you list tools for small businesses, this one needs no signup and no dashboard.
