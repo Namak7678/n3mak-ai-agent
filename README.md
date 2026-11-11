@@ -39,7 +39,8 @@ State lives in Neon Postgres, because the free hosting tier wipes local disk on 
 
 - Client portal: https://namak7678.github.io/n3mak-pay/portal/
 - Generated service agreement: https://namak7678.github.io/n3mak-pay/contract/?id=NMKTEST
-- Radar feed by country: https://namak7678.github.io/n3mak-pay/radar/
+- - Exposure index and press page: https://namak7678.github.io/n3mak-radar/press.html
+Radar feed by country: https://namak7678.github.io/n3mak-pay/radar/
 - Agency brief: 900 Telegram Stars a month, `/subscribe` in the bot
 
 ## Links
