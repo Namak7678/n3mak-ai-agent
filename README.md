@@ -35,6 +35,13 @@ Report purchases are collected inside Telegram with Telegram Stars. Service enga
 
 State lives in Neon Postgres, because the free hosting tier wipes local disk on every restart. The agent keeps itself awake with a self-ping every nine minutes, and republishes from a database-backed queue every six hours.
 
+## Client area and agency feed
+
+- Client portal: https://namak7678.github.io/n3mak-pay/portal/
+- Generated service agreement: https://namak7678.github.io/n3mak-pay/contract/?id=NMKTEST
+- Radar feed by country: https://namak7678.github.io/n3mak-pay/radar/
+- Agency brief: 900 Telegram Stars a month, `/subscribe` in the bot
+
 ## Links
 
 - Bot: https://t.me/N3mak_bot?start=gh_readme
